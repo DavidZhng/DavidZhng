@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  
- I'm currently a freshman at the University of Pennsylvania, majoring in Computer Science. Some of my other interests include football, tennis, video games and rap music.
+ I'm currently a freshman at the University of Pennsylvania, majoring in Computer Science. Some of my other interests include football, tennis, and rap music.
